@@ -1,8 +1,11 @@
 ## Quering Datasets using LLMs
 
-This application provides a web interface to load a CSV file so it can be explored conversationally using OpenAI API. The following is a typical example of usage: 
+This application provides a web interface to load a CSV file so it can be explored conversationally using OpenAI API.<br>
+The following is a typical example of usage: 
 
-<img src="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_ChatGPT.JPG" width="320">
+<img src="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_ChatGPT.JPG" width="480">
+
+The very same query in Python might look something like this: 
 
 ```python
 df.Gender.value_counts()
