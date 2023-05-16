@@ -1,8 +1,9 @@
 ## Quering Datasets using LLMs
 
-This application provides a web interface to load a CSV file so it can be explored conversationally using OpenAI API.<br>
-The following is a typical example of usage:<br>
-<hr>
+This application provides a web interface to load a CSV file so it can be explored conversationally using OpenAI API.
+<br>&nbsp;<br>
+
+#### The following is a typical example of usage:<br>
 Let's say that we have a dataset and we want to know how different genders are represented in our sample, using the chat we could just simply go like this: 
 
 <img src="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_ChatGPT.JPG" width="520">
