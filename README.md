@@ -23,7 +23,8 @@ Gender
 3     28
 Name: count, dtype: int64
 ```
-We see the gender is coded with values 1, 2, and 3:. Let's assume we know that 1 corresponds to male, 2 stands for female and 3 is the code for other gender identification.
+We see the gender is coded with values 1, 2, and 3.<br>
+Let's assume we know that 1 corresponds to male, 2 stands for female and 3 is the code for other gender identification.
 ```python
 gender_dict = {2:'Female', 1:'Male', 3:'Undetermined'}
 ```
