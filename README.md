@@ -1,6 +1,6 @@
 Quering Datasets using LLMs
 
-![]([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_ChatGPT.JPG) | width=400) 
+![](https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_ChatGPT.JPG) | width=400) 
 
 ```python
 df.Gender.value_counts()
