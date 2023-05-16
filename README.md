@@ -45,5 +45,5 @@ Female: 82.48%
 Male: 14.75%
 Undetermined: 2.77%
 ```
-As we see it takes some coding effort to obtain this insight, while it can be obtained quite naturally by talking to ChatGPT or any other LLM. 
+As we see it takes some coding effort to obtain this insight, while it can be obtained quite naturally by talking to ChatGPT (or any other LLM). In this case, we're using a LangChain agent - (Python DataFrame Agent)[https://python.langchain.com/en/latest/modules/agents/toolkits/examples/pandas.html]) - and OpenAI API. 
 
