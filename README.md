@@ -5,10 +5,11 @@
 This application provides a web interface to load a CSV file so it can be explored conversationally (using OpenAI API and LangChain Python DataFrame Agent, see below for technical details and documentation links).
 <br>&nbsp;<br>
 
-<img src="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_Streamlit.JPG" width="520">
-
 #### The following is a typical example of usage:<br>
 Let's say that we have a dataset and we want to know how different genders are represented in our sample, using the chat we could simply go like this: 
+
+<img src="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_Streamlit.JPG" width="520">
+
 
 <img src="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_ChatGPT.JPG" width="520">
 
