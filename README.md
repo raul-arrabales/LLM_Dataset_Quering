@@ -8,8 +8,11 @@ This application provides a web interface to load a CSV file so it can be explor
 #### The following is a typical example of usage:<br>
 Let's say that we have a dataset and we want to know how different genders are represented in our sample, using the chat we could simply go like this: 
 
+- Load the dataset (CSV file) using the web interface: 
+
 <img src="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_Streamlit.JPG" width="520">
 
+- Ask the question about gender representation (please, note that how each gender type is encoded in the dataset is not obvious, but we can also provide that specific information to the chatbot): 
 
 <img src="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_ChatGPT.JPG" width="520">
 
