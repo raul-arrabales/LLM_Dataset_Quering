@@ -1,4 +1,4 @@
-# Quering Datasets using Natural Lanaguage
+# Quering Datasets using Natural Language
 
 ### Leveraging ChatGPT to have a conversational interface for a non-expert to explore a dataset
 
