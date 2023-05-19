@@ -40,13 +40,13 @@ Now, we need to obtain the counts in a way that can be used to calculate the per
 gender_counts = df.Gender.value_counts().rename_axis('gender').reset_index(name='count')
 ```
 ```python
-gender_counts
+print(gender_counts.to_string(index=False))
 ```
 ```
 gender	count
-0	2	833
-1	1	149
-2	3	28
+2	    833
+1	    149
+3	    28
 ```
 And finally we can get our desired output, the percentage of each gender as represented in this dataset: 
 ```python
