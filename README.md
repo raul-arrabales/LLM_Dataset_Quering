@@ -1,6 +1,6 @@
 # Quering Datasets using Natural Lanaguage
 
-## Leveraging LLMs (Large Language Models) to have a simple and effective interface for a non-expert to explore a dataset
+### Leveraging ChatGPT to have a conversational interface for a non-expert to explore a dataset
 
 This application provides a web interface to load a CSV file so it can be explored conversationally (using OpenAI API and LangChain Python DataFrame Agent, see below for technical details and documentation links).
 <br>&nbsp;<br>
