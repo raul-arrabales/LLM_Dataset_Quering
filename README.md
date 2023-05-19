@@ -61,6 +61,7 @@ Male: 14.75%
 Undetermined: 2.77%
 ```
 As we can see it takes some coding effort to obtain this insight, while it can be obtained quite naturally by talking to the OpenAI model (or any other LLM). In this case, we're using a LangChain agent - [Python DataFrame Agent](https://python.langchain.com/en/latest/modules/agents/toolkits/examples/pandas.html) - and [OpenAI API](https://platform.openai.com/docs/api-reference/chat). <br>
+<hr width="1">
 For more examples using a similar approach see: 
 - [ChatwithGPT project](https://github.com/bijucyborg/chatwithcsv)
 - [Minimal Streamlit UI for ChatGPT](https://github.com/marshmellow77/streamlit-chatgpt-ui/)
