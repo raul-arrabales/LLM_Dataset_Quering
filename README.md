@@ -16,7 +16,7 @@ Let's say that we have a dataset and we want to know how different genders are r
 
 <img src="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/media/QG_ChatGPT.JPG" width="520">
 
-The very same query in Python might look something like this: 
+The very same query in Python might look something like this (note that it'll take some Python and Pandas expertise to obtain the very same information that was easily obtained just by asking the chatbot): 
 
 ```python
 # Get a summary of the gender column
