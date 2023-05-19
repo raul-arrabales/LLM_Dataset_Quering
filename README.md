@@ -44,7 +44,7 @@ print(gender_counts.to_string(index=False))
 ```
 ```
 gender	count
-2   833
+2       833
 1   149
 3   28
 ```
