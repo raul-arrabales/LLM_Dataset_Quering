@@ -45,8 +45,8 @@ print(gender_counts.to_string(index=False))
 ```
 gender	count
 2   833
-1	149
-3	28
+1   149
+3   28
 ```
 And finally we can get our desired output, the percentage of each gender as represented in this dataset: 
 ```python
