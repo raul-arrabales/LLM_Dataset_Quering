@@ -62,7 +62,7 @@ Undetermined: 2.77%
 ```
 As we can see it takes some coding effort to obtain this insight, while it can be obtained quite naturally by talking to the OpenAI model (or any other LLM). In this case, we're using a LangChain agent - [Python DataFrame Agent](https://python.langchain.com/en/latest/modules/agents/toolkits/examples/pandas.html) - and [OpenAI API](https://platform.openai.com/docs/api-reference/chat). <br>
 
-<hr style="height:1;pxborder-width:0;color:gray;background-color:gray">
+---
 
 For more examples using a similar approach see: 
 - [ChatwithGPT project](https://github.com/bijucyborg/chatwithcsv)
