@@ -1,5 +1,11 @@
 # Quering Datasets using Natural Language
 
+<p align="center">    
+  <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+  </a>
+</p>
+
 ### Leveraging ChatGPT to have a conversational interface for a non-expert to explore a dataset
 
 This application provides a web interface to load a CSV file so it can be explored conversationally (using OpenAI API and LangChain Python DataFrame Agent, see below for technical details and documentation links).
