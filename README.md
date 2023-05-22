@@ -4,6 +4,9 @@
   <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
+   <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main">
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/raul-arrabales/LLM_Dataset_Quering/v0.1.0-alpha/total" target="_blank"/>
+  </a>
 </p>
 
 ### Leveraging ChatGPT to have a conversational interface for a non-expert to explore a dataset
