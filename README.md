@@ -15,7 +15,6 @@
   </a>
 </p>
 
-https://img.shields.io/twitter/follow/consciousrobots?style=social
 
 ### Leveraging ChatGPT to have a conversational interface for a non-expert to explore a dataset
 
