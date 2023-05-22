@@ -7,7 +7,7 @@
    <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main">
     <img alt="Downloads" src="https://img.shields.io/github/downloads/raul-arrabales/LLM_Dataset_Quering/v0.1.0-alpha/total" target="_blank"/>
   </a>
-  <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main">
+  <a href="https://twitter.com/consciousrobots">
     <img alt="Follow Me" src="https://img.shields.io/twitter/follow/consciousrobots?style=social" target="_blank"/>
   </a>
 </p>
