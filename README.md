@@ -8,7 +8,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a> 
    <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main">
-    <img alt="Downloads" src="https://img.shields.io/github/downloads/raul-arrabales/LLM_Dataset_Quering/v0.1.0-alpha/total" target="_blank"/>
+    <img alt="Release" src="https://img.shields.io/github/v/tag/raul-arrabales/LLM_Dataset_Quering" target="_blank"/>
   </a>
   <a href="https://github.com/raul-arrabales">
     <img alt="Follow Me" src="https://img.shields.io/github/followers/raul-arrabales" target="_blank"/>
