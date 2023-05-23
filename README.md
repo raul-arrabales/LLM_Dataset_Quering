@@ -91,7 +91,7 @@ docker build -t chatcsv .
 ___
 
 ### Run application
-Once the docker image is built you can run the app as follows (by providing your own OpenAI API Key in the "ChatGPT_QuesryCSV_env.txt file): 
+Once the docker image is built you can run the app as follows (after adding your own OpenAI API Key to the *"ChatGPT_QueryCSV_env.txt"* file): 
 ```
 docker run --env-file .\ChatGPT_QueryCSV_env.txt -p 8501:8501 chatcsv
 ```
