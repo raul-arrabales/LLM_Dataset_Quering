@@ -1,6 +1,9 @@
 # Quering Datasets using Natural Language
 
 <p align="left">    
+  <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main"> 
+   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/raul-arrabales/LLM_Dataset_Quering" target="_blank" />
+  </a> 
    <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a> 
