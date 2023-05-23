@@ -83,6 +83,14 @@ As we can see it takes some coding effort to obtain this insight, while it can b
 
 ___
 
+### Build application
+Using the included Dockerfile you can build a docker image for this application using: 
+```
+docker build -t chatcsv .
+```
+
+___
+
 For more examples using a similar approach see: 
 - [ChatwithGPT project](https://github.com/bijucyborg/chatwithcsv)
 - [Minimal Streamlit UI for ChatGPT](https://github.com/marshmellow77/streamlit-chatgpt-ui/)
