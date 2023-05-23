@@ -60,11 +60,17 @@ def get_apikey_from_file(filename):
             return f.read().strip()
     except FileNotFoundError:
         print("'%s' file not found" % filename)
+        return None
 
 # Get the API Key from file and set the env vble
+# If we're running in local there will be a file
+# If this is running from a docker image, the API Key should be passed as an env vble.
 openai_api_key = get_apikey_from_file(key_filename)
-openai.api_key = openai_api_key
-os.environ["OPENAI_API_KEY"] = openai_api_key
+if (openai_api_key != None):
+      openai.api_key = openai_api_key
+      os.environ["OPENAI_API_KEY"] = openai_api_key
+else:
+      openai.api_key = os.environ["OPENAI_API_KEY"]
 
 # Check if the API key is valid 
 try:
