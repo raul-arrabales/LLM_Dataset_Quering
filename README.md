@@ -26,7 +26,7 @@ This application provides a web interface to load a CSV file so it can be explor
 
 ### 5 minutes demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/prbl_cM3iJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Application demo](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/embed/prbl_cM3iJk) "Everything Is AWESOME")
 
 #### The following is a typical example of usage:<br>
 Let's say that we have a dataset and we want to know how different genders are represented in our sample, using the chat we could simply go like this: 
