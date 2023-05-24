@@ -113,6 +113,6 @@ docker run --env-file .\ChatGPT_QueryCSV_env.txt -p 8501:8501 chatcsv
 ___
 
 For more examples using a similar approach see: 
-- [ChatwithGPT project](https://github.com/bijucyborg/chatwithcsv)
+- [ChatwithCSV project](https://github.com/bijucyborg/chatwithcsv)
 - [Minimal Streamlit UI for ChatGPT](https://github.com/marshmellow77/streamlit-chatgpt-ui/)
 
