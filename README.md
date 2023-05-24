@@ -23,13 +23,20 @@
 
 This application provides a web interface to load a CSV file so it can be explored conversationally (using OpenAI API and LangChain Python DataFrame Agent, see below for technical details and documentation links).
 <br>&nbsp;<br>
-
+___
 ### 5 minutes demo
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=prbl_cM3iJk" target="_blank">
- <img src="http://img.youtube.com/vi/prbl_cM3iJk/mqdefault.jpg" alt="Watch the video" width="480" border="10" />
+<img src="http://img.youtube.com/vi/prbl_cM3iJk/mqdefault.jpg" alt="Watch the video" width="80" border="10" align="top"/>
+Quering CSV using ChatGPT - 5 min. demo - English - YouTube
+</a>
+<p>&nbsp;</p>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=prbl_cM3iJk" target="_blank">
+<img src="http://img.youtube.com/vi/prbl_cM3iJk/mqdefault.jpg" alt="Watch the video" width="80" border="10" align="top"/>
+Quering CSV using ChatGPT - 5 min. demo - Spanish - YouTube
 </a>
 
+___
 
 #### The following is a typical example of usage:<br>
 Let's say that we have a dataset and we want to know how different genders are represented in our sample, using the chat we could simply go like this: 
