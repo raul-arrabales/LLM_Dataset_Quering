@@ -24,7 +24,8 @@
 This application provides a web interface to load a CSV file so it can be explored conversationally (using OpenAI API and LangChain Python DataFrame Agent, see below for technical details and documentation links).
 <br>&nbsp;<br>
 ___
-### 5 minutes demo
+### Quick demos
+I tried to keep the demos under 5 minutes (the demo in Spanish is a bit longer because I detected important errors in model's responses and I felt that it is interesting to see how these models cannot be blindly trusted - see [AI Hallucinations](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))).
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=prbl_cM3iJk" target="_blank">
 <img src="http://img.youtube.com/vi/prbl_cM3iJk/mqdefault.jpg" alt="Watch the video" width="80" border="10" align="top"/>
@@ -33,7 +34,7 @@ Quering CSV using ChatGPT - 5 min. demo - English - YouTube
 <p>&nbsp;</p>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=IcWfYAYp-lw" target="_blank">
 <img src="http://img.youtube.com/vi/IcWfYAYp-lw/mqdefault.jpg" alt="Watch the video" width="80" border="10" align="top"/>
-Quering CSV using ChatGPT - 8 min. demo (featuring some ChatGPT Hallucinations) - Spanish - YouTube
+Quering CSV using ChatGPT - 8 min. demo - Spanish - YouTube
 </a>
 
 ___
