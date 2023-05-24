@@ -10,7 +10,7 @@
   <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main">
     <img alt="Python ver" src="https://img.shields.io/github/pipenv/locked/python-version/raul-arrabales/LLM_Dataset_Quering" target="_blank" />
   </a> 
-   <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/blob/main">
+   <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/releases/">
     <img alt="Release" src="https://img.shields.io/github/v/tag/raul-arrabales/LLM_Dataset_Quering" target="_blank"/>
   </a>
   <a href="https://github.com/raul-arrabales">
