@@ -26,6 +26,9 @@ This application provides a web interface to load a CSV file so it can be explor
 
 ### 5 minutes demo
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=prbl_cM3iJk" target="_blank">
+ <img src="http://img.youtube.com/vi/prbl_cM3iJk/mqdefault.jpg" alt="Watch the video" width="480" border="10" />
+</a>
 
 
 #### The following is a typical example of usage:<br>
