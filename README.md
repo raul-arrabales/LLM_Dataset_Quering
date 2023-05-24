@@ -31,9 +31,9 @@ ___
 Quering CSV using ChatGPT - 5 min. demo - English - YouTube
 </a>
 <p>&nbsp;</p>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=prbl_cM3iJk" target="_blank">
-<img src="http://img.youtube.com/vi/prbl_cM3iJk/mqdefault.jpg" alt="Watch the video" width="80" border="10" align="top"/>
-Quering CSV using ChatGPT - 5 min. demo - Spanish - YouTube
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=IcWfYAYp-lw" target="_blank">
+<img src="http://img.youtube.com/vi/IcWfYAYp-lw/mqdefault.jpg" alt="Watch the video" width="80" border="10" align="top"/>
+Quering CSV using ChatGPT - 8 min. demo (featuring some ChatGPT Hallucinations) - Spanish - YouTube
 </a>
 
 ___
