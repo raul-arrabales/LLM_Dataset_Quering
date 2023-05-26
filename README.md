@@ -13,6 +13,9 @@
    <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/releases/">
     <img alt="Release" src="https://img.shields.io/github/v/tag/raul-arrabales/LLM_Dataset_Quering" target="_blank"/>
   </a>
+  <a href="https://github.com/raul-arrabales/LLM_Dataset_Quering/">
+    <img alt="Project Stars" src="https://img.shields.io/github/stars/raul-arrabales/LLM_Dataset_Quering" target="_blank" />
+  </a>
   <a href="https://github.com/raul-arrabales">
     <img alt="Follow Me" src="https://img.shields.io/github/followers/raul-arrabales" target="_blank"/>
   </a>
